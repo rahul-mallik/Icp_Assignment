@@ -1,4 +1,4 @@
-package icp_lab1;
+
 
 public class Cmd_HQ1 {
     public static void main(String[] args) {
