@@ -9,8 +9,7 @@ public class Hq1 {
         int user = in.nextInt();
 
         int random = (int)(3*Math.random());
-        System.out.println(random);
-        System.out.println(user);
+        
         switch (random){
             case 0 :
                 System.out.print("The Computer choose Scissor.");
