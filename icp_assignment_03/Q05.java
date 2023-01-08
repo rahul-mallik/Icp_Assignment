@@ -6,10 +6,8 @@ public class Q05 {
 		System.out.print("Input the year: ");
 		int a= in.nextInt();
 		boolean cond = (a%100 != 0 && a%4 == 0);
-		if (cond)
-			System.out.println(a + " is a leap year : "+cond);
-		else 
-			System.out.println(a + " is a leap year : "+cond);
+		System.out.println(a + " is a leap year : "+cond);
+		System.out.println(a + " is a leap year : "+cond);
 		
 	}
 }
