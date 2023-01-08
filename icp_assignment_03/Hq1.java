@@ -1,4 +1,3 @@
-package icp_lab1;
 
 import java.util.Scanner;
 
