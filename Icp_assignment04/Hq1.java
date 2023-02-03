@@ -13,5 +13,7 @@ public class Hq1 {
         System.out.println("The square of the sum of the first ten natural numbers is: "+sum2);
         System.out.println("Hence the difference between the sum of the squares of the first\n" +
                 "ten natural numbers and the square of the sum is " +sum2+" - "+sq + " = "+(sum2-sq) );
+
+
     }
 }
