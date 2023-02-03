@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import java.util.Scanner;
-
 public class AffineChiper {
 
     public static void main(String[] args) {
