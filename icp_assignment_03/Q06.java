@@ -9,7 +9,7 @@ public class Q06 {
 		if (unit<=50)
 			bill = unit*3;
 		else if (unit <= 200 && unit >50)
-			bill = 50*3 +(unit)*4.8;
+			bill = 50*3 +(unit-50)*4.8;
 		else if (unit <= 400 && unit >200)
 			bill = 50*3 +200*4.8 +(unit-200)*5.8;
 		else if (unit > 400 )
