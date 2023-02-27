@@ -15,7 +15,7 @@ public class Hq5 {
         int age = in.nextInt();
 
         if (age>=20 && (gender == 'F' || gender == 'f')) {
-            System.out.print("Are you married, Gita (y or n)? ");
+            System.out.print("Are you married,"+f_name+"(y or n)? ");
             char single = in.next().charAt(0);
 
             if (single == 'y' || single == 'Y')
