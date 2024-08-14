@@ -6,6 +6,7 @@ public class Hq1{
 // c)System.out.println((2+3) + "bc"); 
 // d)System.out.println("bc" + (2+3));
 // e)System.out.println("bc" + 2 + 3);
+// hello dj 
 
         System.out.println(2 + "bc");
         System.out.println(2 + 3 + "bc");
